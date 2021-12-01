@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "http://sordacius@gmail.com",
+            "request": "launch",
+            "url": "http://sordacius@gmail.com"
+        }
+    ]
+}
